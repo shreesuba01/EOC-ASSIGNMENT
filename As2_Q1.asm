@@ -1,0 +1,9 @@
+@rt
+D=M
+@rs
+D=D-M
+@rd
+M=D
+(END)
+@END
+0;JMP
